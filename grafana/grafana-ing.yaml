@@ -20,7 +20,7 @@ metadata:
   namespace: kube-system
 spec:
   rules:
-  - host: pro.icsoc.net
+  - host: pro.baidu.com
     http:
       paths:
       - path: /
